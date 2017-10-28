@@ -1,0 +1,82 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BSTexp - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\djs\AppData\Local\Temp\RSP5FFF.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/BSTexp.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\myprogram\BSTexp1\filter_tree.cpp"
+]
+Creating command line "cl.exe @C:\Users\djs\AppData\Local\Temp\RSP5FFF.tmp" 
+Creating temporary file "C:\Users\djs\AppData\Local\Temp\RSP6000.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/BSTexp.pdb" /debug /machine:I386 /out:"Debug/BSTexp.exe" /pdbtype:sept 
+.\Debug\AmTableDlg.obj
+.\Debug\BinarySearchView.obj
+.\Debug\BSTexp.obj
+.\Debug\BSTexpDoc.obj
+.\Debug\BSTexpView.obj
+.\Debug\BtnST.obj
+.\Debug\BTreeDlg.obj
+.\Debug\BTreeView.obj
+.\Debug\BubbleSortView.obj
+.\Debug\Connless_server.obj
+.\Debug\CreateCmdsDlg.obj
+.\Debug\CtrlPanView.obj
+.\Debug\DlgElement.obj
+.\Debug\DlgTreeTrav.obj
+.\Debug\Filter.obj
+.\Debug\filter_tree.obj
+.\Debug\FilterDlg.obj
+.\Debug\FiltView.obj
+.\Debug\HashSearchView.obj
+.\Debug\InsertSortView.obj
+.\Debug\link.obj
+.\Debug\LinkDelView.obj
+.\Debug\LinkInstView.obj
+.\Debug\LinkView.obj
+.\Debug\LnkInsideDlg.obj
+.\Debug\LoganzDlg.obj
+.\Debug\MainFrm.obj
+.\Debug\MyHelpView.obj
+.\Debug\MyListView.obj
+.\Debug\MyNavView.obj
+.\Debug\MyResultView.obj
+.\Debug\MyRptView.obj
+.\Debug\MyTreeCtrl.obj
+.\Debug\MyView.obj
+.\Debug\QuickSortView.obj
+.\Debug\search.obj
+.\Debug\SelectSortView.obj
+.\Debug\SeqSearchView.obj
+.\Debug\shadow.obj
+.\Debug\sort.obj
+.\Debug\StdAfx.obj
+.\Debug\TabDelView.obj
+.\Debug\TabInstView.obj
+.\Debug\table.obj
+.\Debug\TableView.obj
+.\Debug\TestFrame.obj
+.\Debug\Thread.obj
+.\Debug\ThreadTestView.obj
+.\Debug\tree.obj
+.\Debug\TreeTravView.obj
+.\Debug\BSTexp.res
+]
+Creating command line "link.exe @C:\Users\djs\AppData\Local\Temp\RSP6000.tmp"
+<h3>Output Window</h3>
+Compiling...
+filter_tree.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+BSTexp.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
